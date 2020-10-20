@@ -1,0 +1,19 @@
+[[bin]]
+name = 'v1_lifetime'
+path = 'src/main.rs'
+
+[[bin]]
+name = 'v2_closure'
+path = 'src/v2_closure.rs'
+
+[[bin]]
+name = 'v3_rc'
+path = 'src/v3_rc.rs'
+
+[package]
+name = 'd3_lifetime'
+version = '0.1.0'
+authors = ['max <harumaxy@gmail.com>']
+edition = '2018'
+
+[dependencies]

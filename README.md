@@ -32,3 +32,4 @@
 
 - Lifetime system を理解する
 - Generic を理解する
+- 
