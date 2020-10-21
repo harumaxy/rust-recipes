@@ -7,3 +7,7 @@ Stream = 流れるデータ構造、ネットワークストリーム、イベ�
 `Stream`
 - `type Item`
 - `fn poll_next`: `Pin -> &mut Context -> Poll<Option<Self::Item>>`
+
+
+
+
