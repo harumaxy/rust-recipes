@@ -1,0 +1,2 @@
+[global.databases.doodlebase]
+url = 'postgres://masaharu:maxy8821@localhost:5431/doodle'

@@ -1,0 +1,15 @@
+[package]
+name = 'd8_ffi'
+version = '0.1.0'
+authors = ['max <harumaxy@gmail.com>']
+edition = '2018'
+
+[lib]
+name = 'double'
+crate-type = ['dylib']
+
+[dependencies]
+cmake = '0.1'
+libloading = '0.6'
+failure = '0.1'
+failure_derive = '0.1'
