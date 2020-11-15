@@ -1,15 +1,13 @@
 # The Rust Recipie Course
 
-1. Error handling with Result & Option
-2. Iterators
-3. Concurrency and Lifetimes
-4. Simple Patterns
-   - デザインパターンのクラスの実装のこと？
-   - Factoryとかß
-5. Future with async / await
-6. Database with Diesel
-7. WebServer with Rocket
-8. FFI
+- Error handling with Result & Option
+- Iterators
+- Concurrency and Lifetimes
+- Simple Patterns
+- Future with async / await
+- Database with Diesel
+- WebServer with Rocket
+- FFI
 
 # 専門用語
 
